@@ -116,4 +116,6 @@
   <a href="https://discordapp.com/users/k7ishn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
   &nbsp;
   <a href="mailto:harsh00752n@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=zuckwhosuck&color=3c0008&style=for-the-badge&label=I+AM+VENGEANCE" alt="Profile Views"/>
 </p>
